@@ -1,0 +1,12 @@
+.app-container {
+  display: flex;
+}
+
+.contents1 {
+  width: 100% !important;
+}
+
+.sideBar {
+  min-height: 800px;
+  border: 5px solid black !important;
+}
